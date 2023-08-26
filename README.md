@@ -15,7 +15,7 @@ Here's what I'm proficient in:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript") ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "TypeScript") ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React Native") ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML") ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS") ![React-Native-Skia](https://img.shields.io/badge/React_Native_Skia-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React-Native-Skia")
 
 ### Backend Wizardry ⚙️
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Node.js") ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge "Express.js")
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Node.js") ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge "Express.js") ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white "GraphQL")
 
 ### Database Sorcery 🗂
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white "MongoDB") ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black "Firestore") ![Realtime Firebase Database](https://img.shields.io/badge/Realtime%20Firebase%20Database-FF6F00?style=for-the-badge&logo=firebase&logoColor=black "Realtime Firebase Database")
