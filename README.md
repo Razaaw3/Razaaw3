@@ -45,4 +45,3 @@ Want to talk about app ideas or work together? Reach out through:
 
 Let's team up to create fantastic mobile experiences! 🚀📱
 
-My Linkedin link is not turned to blue it is correct link
