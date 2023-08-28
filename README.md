@@ -42,6 +42,6 @@ Want to talk about app ideas or work together? Reach out through:
 
 - 📧 Email: razaaw3@gmail.com
 - 💼 LinkedIn: [Muhammad Awais Raza](https://www.linkedin.com/in/awais-raza-361b4b184)
-
+  
 Let's team up to create fantastic mobile experiences! 🚀📱
 
