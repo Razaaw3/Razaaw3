@@ -36,7 +36,7 @@ Take a peek at some of my creations:
    - 🪄 Technologies: React Native, Firebase, Firestore.
    - 👓 [Explore](https://github.com/Razaaw3/ServicePrestamode.git)
 
-❓ ## Get in Touch
+## ❓ Get in Touch
 
 Want to talk about app ideas or work together? Reach out through:
 
