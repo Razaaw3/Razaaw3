@@ -5,7 +5,7 @@ I specialize in crafting mobile apps using JavaScript, TypeScript, and React Nat
 
 ## My GitHub Activity 📊
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Razaaw3&theme=highcontrast&exclude_days=sat,sun)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Razaaw3&theme=highcontrast&exclude_days=sun)](https://git.io/streak-stats)
 
 ## 🚀 Skills at a Glance
 
